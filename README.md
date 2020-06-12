@@ -10,4 +10,4 @@ Most of the clustering algorithms don't have hyperparameter tuning to find the '
 1. _HDBSCAN_
 
 
-The hyperparameter tuning first uses _RandomizedSearchCV_ followed by _GridSearchCV_ to hopefully converge on the appropriate set.
+The hyperparameter tuning first uses _RandomizedSearchCV_ followed by _GridSearchCV_ to hopefully converge on the appropriate hyperparameter set.
