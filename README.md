@@ -11,3 +11,6 @@ Most of the clustering algorithms don't have hyperparameter tuning to find the '
 
 
 The hyperparameter tuning first uses _RandomizedSearchCV_ followed by _GridSearchCV_ to hopefully converge on the appropriate hyperparameter set.
+
+
+The dataset was downloaded from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/202004-divvy-tripdata.zip)
